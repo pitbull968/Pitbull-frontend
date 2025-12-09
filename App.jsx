@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Hero from './Hero'
-import ProductGrid from './components/ProductGrid'
+import ProductGrid from './ProductGrid'
 import AIWidget from './components/AIWidget'
 import CheckoutModal from './components/CheckoutModal'
 
