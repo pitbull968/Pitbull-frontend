@@ -3,7 +3,7 @@ import React from 'react'
 import Hero from './Hero'
 import ProductGrid from './ProductGrid'
 import AIWidget from './components/AIWidget'
-import CheckoutModal from './components/CheckoutModal'
+import CheckoutModal from './CheckoutModal'
 
 export default function App(){
   return (
